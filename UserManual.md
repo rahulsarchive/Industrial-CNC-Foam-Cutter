@@ -59,12 +59,13 @@
 2. Make sure the belts for all the axes are tight.
 3. For tightening the belts of the x-axis,
 
-![DIY CNC hotwire](/Images/build/xstep.jpg)
-	1. loosen the 4 screws in the stepper motor.
-	2. push the motor downwards, and tighten the screws.
-3. For tightening the belts of the x-axis,
+![DIY CNC hotwire](Images/build/xstep.jpg)
 
-![DIY CNC hotwire](/Images/build/ystep.JPG)
+	1. loosen the 4 screws in the stepper motor.  
+	2. push the motor downwards, and tighten the screws.  
+3. For tightening the belts of the x-axis,  
+
+![DIY CNC hotwire](Images/build/ystep.JPG)
 
 	1. loosen the 2 screws at the top of the tower.
 	2. pull the bet upwards through the clamping piece.
