@@ -2,7 +2,7 @@
 
 A DIY Industrial CNC Foam cutter.
 
-![CNC Foam cutter](Images/1.JPG)
+![CNC Foam cutter](Images/01.JPG)
 
 
 ### Specifications
@@ -23,11 +23,11 @@ First version using Arduino and Ramps
 
 [4-Axis Foam cutter(Arduiono +Ramps)](https://github.com/rahulsarchive/4AxisFoamCutter)
 
-![CNC Foam cutter](Images/2.JPG)
+![CNC Foam cutter](Images/02.JPG)
 
 The frame made from 4040 Extruded Aluminum profiles and joined together with custom Aluminum brackets for rigidity.
 
-![CNC Foam cutter](Images/3.JPG)
+![CNC Foam cutter](Images/03.JPG)
 
 Control box securely mounted on the side of the machine.
 
@@ -35,11 +35,11 @@ Control box securely mounted on the side of the machine.
 
 Original Meanwell powersupplies and Rhino Motion control Drivers.
 
-![CNC Foam cutter](Images/4.JPG)
+![CNC Foam cutter](Images/41.JPG)
 
 Y carriage CNC machined from 10mm Delrin.
 
-![CNC Foam cutter](Images/5.JPG)
+![CNC Foam cutter](Images/05.JPG)
 
 The nichorome wire is held in the carriage with spring on either side. Power to the wire is fed via the stainless steel threded rods which also act as vertical spacers between parallel wires.
 
