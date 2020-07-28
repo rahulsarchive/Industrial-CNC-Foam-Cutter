@@ -43,7 +43,7 @@ Y carriage CNC machined from 10mm Delrin.
 
 The nichorome wire is held in the carriage with spring on either side. Power to the wire is fed via the stainless steel threded rods which also act as vertical spacers between parallel wires.
 
-![CNC Foam cutter](Images/6.JPG)
+![CNC Foam cutter](Images/06.JPG)
 
 The carriage runs on roller bearings with custom Delrin bushings which attach to the aluminum profiles. All the wire are contained in the frame itself and the design are modular.
 
