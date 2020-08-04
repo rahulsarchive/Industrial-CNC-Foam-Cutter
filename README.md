@@ -65,3 +65,10 @@ The x-axis consits of two motors on each side, one on top and bottom to provide 
 
 The Y-axis holds a Nema 23 motor with the belt running through the inner profile of the Aluminum extusions. The wires from the control box are fed via a cable carrier.
 
+The first machine was installed at an insulation profile making factory in Kozhikode. Some photos of the machine in the client's factory.
+
+
+![CNC Foam cutter](Images/install1.jpg)
+
+
+![CNC Foam cutter](Images/install2.jpg)
